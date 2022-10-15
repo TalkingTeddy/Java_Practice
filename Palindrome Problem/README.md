@@ -1,2 +1,2 @@
 # Palindrome Program
-This is a Java Proram
+This is a Java Proram to identify a palindrom.
